@@ -1,4 +1,4 @@
-
+# Take input as binary number
 echo "Enter Binary Number -"
 read n
 
